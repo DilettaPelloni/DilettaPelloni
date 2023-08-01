@@ -1,4 +1,4 @@
-<img align="left" width="35%" src="Avatar.gif">
+<img align="left" width="20%" src="Avatar.gif">
 
 <h1>Ciao! I'm Diletta</h1>
 <h3>I'm a junior Full-Stack Web developer</h3>
