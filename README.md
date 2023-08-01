@@ -1,4 +1,8 @@
-### Hi there 👋
+<img align="left" width="35%" src="Avatar.gif">
+
+<h1>Ciao! I'm Diletta</h1>
+<h3>I'm a junior Full-Stack Web developer</h3>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Sans&pause=1000&color=FFFFFF&vCenter=true&width=600&lines=And+a+graphics+and+design+entusiast+%F0%9F%91%A9%F0%9F%8F%BC%E2%80%8D%F0%9F%8E%A8;And+a+patient+elder+sister+%F0%9F%91%A7%F0%9F%8F%BC%F0%9F%91%A6%F0%9F%8F%BC;And+a+disciplined+martial+artist+%F0%9F%A5%8B;And+a+huge+fan+of+manga%2C+anime%2C+and+video+games+%F0%9F%8E%AE" alt="Typing SVG" /></a>
 
 <!--
 **DilettaPelloni/DilettaPelloni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
